@@ -2,81 +2,99 @@
   .slideOne .single-slider .slider-content {
     width: 70%;
   }
+
   br {
     display: none;
   }
 }
+
 @media only screen and (max-width: 867px) {
   .slideOne .single-slider .slider-content {
     width: 80%;
   }
 }
+
 @media only screen and (max-width: 768px) {
   h1 {
     font-size: 40px;
     line-height: 48px;
   }
+
   h2 {
     font-size: 33px;
     line-height: 40px;
   }
+
   .slideOne h1 {
     font-size: 45px !important;
     line-height: 55px !important;
   }
 }
+
 @media only screen and (max-width: 576px) {
   h1 {
     font-size: 37px;
     line-height: 45px;
   }
+
   h2 {
     font-size: 30px;
     line-height: 35px;
   }
+
   .slideOne h1 {
     font-size: 40px !important;
     line-height: 50px !important;
   }
+
   .slideOne a {
     font-weight: 500 !important;
   }
+
   .slideOne .single-slider .slider-content {
     width: 90%;
   }
 }
+
 @media only screen and (max-width: 466px) {
   h1 {
     font-size: 34px;
     line-height: 40px;
   }
+
   h2 {
     font-size: 27px;
     line-height: 30px;
   }
+
   .slideOne h1 {
     font-size: 35px !important;
     line-height: 45px !important;
     font-weight: 500;
   }
+
   .slideOne a {
     font-size: 18px !important;
     font-weight: 500 !important;
   }
 }
+
 @media only screen and (max-width: 390px) {
   h1 {
     font-size: 32px;
     line-height: 38px;
   }
+
   .slideOne h1 {
     font-size: 32px !important;
     line-height: 42px !important;
   }
+
   .slideOne a {
     font-size: 16px !important;
   }
 }
+
 @media only screen and (max-width: 361px) {
   .slideOne h1 {
     font-size: 28px !important;
